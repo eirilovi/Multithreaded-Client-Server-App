@@ -8,4 +8,4 @@ A new thread will be created and the MultiThreadedServer instance will be passed
 
 The new thread will start executing the run method of the MultiThreadedServer class.
 
-Unfortunately upon sending a GET request via Postman to http://localhost:8080. It does not get a response, as you will see in the video. you can tell me what I'm doing wrong.
+Unfortunately upon sending a GET request via Postman to http://localhost:8080. It does not get a response, as you will see in the video. Hopefully you can tell me what I'm doing wrong.
